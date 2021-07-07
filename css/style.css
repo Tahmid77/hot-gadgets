@@ -1,0 +1,37 @@
+.logo {
+    width: 100px;
+}
+.sea-all{
+    color: orange;
+    font-weight: 500;
+    font-size: medium;
+}
+.gap{
+    height: 50px;
+}
+.card{
+    border-radius: 15px;
+    text-align: center;
+    border: none;
+    box-shadow: 3px 3px 10px lightgray;
+}
+#category{
+    text-align: center;
+}
+hr{
+    border-top: 10px solid ;
+    width: 70px;
+    border-image: linear-gradient( 90deg,rgb(231, 163, 61),rgb(230, 70, 7));
+    border-image-slice: 1;
+}
+.pack{
+    width: 230px;
+    height: 230px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px lightgray;
+}
+.pic{
+    width: 100px;
+}
